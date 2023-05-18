@@ -6,7 +6,7 @@ This is a contact form I created with Node.js and its module Nodemailer. This is
 <img width="1200" alt="Screenshot 2023-05-18 at 20 06 53" src="https://github.com/mendaayy/Nodemailer/assets/122844229/fb8f6e04-8301-4e17-9a00-5b58f100be89">
 
 ## Note
-Before "installation", you need to have [node js](https://nodejs.org/en/download) downloaded, and you need to generate your gmail app password (**step-by-step guide how**https://support.google.com/mail/answer/185833?hl=en) and put the credentials in the server.js file line 18 and 19.
+Before "installation", you need to have [node js](https://nodejs.org/en/download) downloaded, and you need to generate your gmail app password (**step-by-step guide how**https://support.google.com/mail/answer/185833?hl=en) and put the credentials in the server.js file line 18, 19 and 25.
 
 ## Installation
 To "install" this webpage, you first need to download it and open the terminal and run the following codes:
